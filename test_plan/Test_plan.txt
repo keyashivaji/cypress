@@ -19,6 +19,12 @@ Verify that the user can navigate to different pages on the website.
 Verify that the user can enter and submit a quote request form.
 Verify that the user can view and update their profile information.
 Verify that the website is responsive and works well on different screen sizes.
+Security Testing: This test case will check the website's security against SQL injection and cross-site scripting attacks.
+Performance Testing: This test case will check the website's performance and response time under heavy load.
+
+Test Environment:
+Operating System: Windows 10
+Web Browsers: Chrome, Firefox, Internet Explorer
 
 Testing Approach:
 The testing team will first manually test the website to identify any obvious bugs or issues.
