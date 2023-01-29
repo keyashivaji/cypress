@@ -1,0 +1,38 @@
+Test Plan: Insurance Web Application
+
+Scope: The scope of this test plan is to verify the functionality and usability of the Insurance Web Application (https://demo.guru99.com/insurance/v1/index.php)
+
+Assumptions:
+The website has been properly deployed and is accessible to the testing team.
+The testing team has been provided with necessary credentials to access the website.
+The website is compatible with the latest versions of popular web browsers.
+
+Testing Tools:
+Cypress will be used for automating the testing process.
+TestNG will be used for creating and managing test cases.
+Jenkins will be used for continuous integration and continuous testing.
+
+Test Cases:
+Verify that the website loads properly and all elements are displayed correctly.
+Verify that the user can successfully login and logout of the website.
+Verify that the user can navigate to different pages on the website.
+Verify that the user can enter and submit a quote request form.
+Verify that the user can view and update their profile information.
+Verify that the website is responsive and works well on different screen sizes.
+
+Testing Approach:
+The testing team will first manually test the website to identify any obvious bugs or issues.
+Automated testing will then be performed using Cypress and Javascript.
+The website will be tested on different web browsers and screen sizes to ensure compatibility.
+Continuous integration and continuous testing will be performed
+Any issues identified during testing will be reported and tracked until they are resolved.
+
+Deliverables:
+Test cases documentation
+Test execution report
+Defect report
+
+
+
+
+
